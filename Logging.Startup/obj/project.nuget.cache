@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "f/4CK6G2TvKrm6wVjwWin2G8GAr67a0s+TiRWey3iyBUW4eCDgt4sUX29eNy/HoRs9n7xxlo6Unue9ELBw0dgg==",
+  "success": true,
+  "projectFilePath": "F:\\Smk\\Study\\DotNetCore Library\\Project\\LoggingLibrary\\Logging.Startup\\Logging.Startup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mahesh S\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

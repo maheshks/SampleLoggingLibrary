@@ -1,0 +1,12 @@
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\bin\Debug\net7.0\Logging.Core.deps.json
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\bin\Debug\net7.0\Logging.Core.dll
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\bin\Debug\net7.0\Logging.Core.pdb
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.csproj.AssemblyReference.cache
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.AssemblyInfoInputs.cache
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.AssemblyInfo.cs
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.csproj.CoreCompileInputs.cache
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.dll
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\refint\Logging.Core.dll
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\Logging.Core.pdb
+F:\Smk\Study\DotNetCore Library\Project\LoggingLibrary\Logging.Core\obj\Debug\net7.0\ref\Logging.Core.dll
